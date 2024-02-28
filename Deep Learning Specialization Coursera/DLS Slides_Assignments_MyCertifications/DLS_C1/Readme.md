@@ -1,5 +1,7 @@
 # Neural Networks and Deep Learning
 
+![image](https://github.com/yazeedmshayekh2/Coursera-Deep-Learning-Specialization/assets/102586302/dbe9bfeb-551a-4dcf-9654-fa34f4ffb9a7)
+
 ## Course 
 
 **Intermediate level**
