@@ -2,6 +2,8 @@
 
 [Coursera-Deep-Learning-Specialization](https://www.coursera.org/specializations/deep-learning#outcomes)
 
+![image](https://github.com/yazeedmshayekh2/Coursera-Deep-Learning-Specialization/assets/102586302/5997519b-a32b-4568-bce9-90ae434b9cf6)
+
 ## What you'll learn
 
 - Build and train deep neural networks, identify key architecture parameters, implement vectorized neural networks and deep learning to applications.
