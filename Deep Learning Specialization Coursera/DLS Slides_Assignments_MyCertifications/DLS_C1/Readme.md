@@ -1,5 +1,11 @@
 # Neural Networks and Deep Learning
 
+## Course 
+
+**Intermediate level**
+**24 hours (approximately)**
+**4.9, (120,662 reviews)**
+
 ## There are 4 modules in this course
 
 In the first course of the Deep Learning Specialization, you will study the foundational concept of neural networks and deep learning. 
