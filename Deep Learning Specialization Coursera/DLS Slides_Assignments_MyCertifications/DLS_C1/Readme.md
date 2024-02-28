@@ -3,7 +3,9 @@
 ## Course 
 
 **Intermediate level**
+
 **24 hours (approximately)**
+
 **4.9, (120,662 reviews)**
 
 ## There are 4 modules in this course
