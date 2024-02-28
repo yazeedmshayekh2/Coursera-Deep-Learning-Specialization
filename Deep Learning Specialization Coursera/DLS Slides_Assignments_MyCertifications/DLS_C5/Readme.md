@@ -1,6 +1,7 @@
 # Sequence Models
 
-![image](https://github.com/yazeedmshayekh2/Coursera-Deep-Learning-Specialization/assets/102586302/51e0efd4-191a-4769-9251-52b131888886)
+![image](https://github.com/yazeedmshayekh2/Coursera-Deep-Learning-Specialization/assets/102586302/f3260717-1c83-4686-9ebf-8f0038e1e670)
+
 
 ## Course 
 
