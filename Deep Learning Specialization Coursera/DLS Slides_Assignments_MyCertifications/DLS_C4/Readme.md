@@ -1,6 +1,6 @@
 # Convolutional Neural Networks
 
-![image](https://github.com/yazeedmshayekh2/Coursera-Deep-Learning-Specialization/assets/102586302/51e0efd4-191a-4769-9251-52b131888886)
+![image](https://github.com/yazeedmshayekh2/Coursera-Deep-Learning-Specialization/assets/102586302/655fb4d8-e90a-47f8-912d-a73100db2031)
 
 ## Course 
 
